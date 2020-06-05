@@ -4,9 +4,6 @@ Project 1 - Number Guessing Game
 
 Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
 ---------------------------------------------------------------
-
-For this first project we will be using Workspaces.
-
 """
 
 import random
