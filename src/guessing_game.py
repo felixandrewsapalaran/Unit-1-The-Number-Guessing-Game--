@@ -2,8 +2,8 @@
 Python Web Development Techdegree
 Project 1 - Number Guessing Game
 
-Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
--------------------------------------------------------
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
 
 For this first project we will be using Workspaces.
 
