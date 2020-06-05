@@ -14,3 +14,15 @@ Build a console number guessing game that prompts a player to choose a number be
 
 Here is the result of my code review: 
 
+![](/result/1.png)
+![](/result/2.png)
+![](/result/3.png)
+![](/result/4.png)
+![](/result/5.png)
+![](/result/6.png)
+![](/result/7.png)
+
+
+PROJECT OUTPUT:
+![](/result/output.png)
+
