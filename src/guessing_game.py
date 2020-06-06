@@ -1,5 +1,5 @@
 """
-Python Web Development Techdegree
+Python Development Techdegree
 Project 1 - Number Guessing Game
 
 Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
